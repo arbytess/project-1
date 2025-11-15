@@ -15,7 +15,7 @@ int main(void) {
     
     printf("\n=== For Loop ===\n");
     
-    for(i = 2; i <= 20; i = i + 2) { // Even number from 2 το 20
+    for(i = 2; i <= 30; i = i + 2) { // Even number from 2 το 20
     printf("%d\n", i);
     }
     
